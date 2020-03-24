@@ -1,0 +1,11 @@
+{
+    "mpd":{
+        "host": "localhost",
+        "port": "6600"
+    },
+    "timeout": 10,
+    "idletimeout": null,
+    "slack": {
+        "workspaces": []
+    }
+}

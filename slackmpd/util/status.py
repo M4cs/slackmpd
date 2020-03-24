@@ -4,4 +4,4 @@ def build_status(config, current_song):
     album = current_song.get('album') if current_song.get('album') else "Unknown"
     status = config.getFormatting()
     status = status.replace("artist", artist).replace("song", song).replace("album", album)
-    return "Listening to Spotify: \n" + status
+    return "Listening to: \n" + status

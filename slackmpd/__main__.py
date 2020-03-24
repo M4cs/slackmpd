@@ -9,7 +9,6 @@ def main():
     client =  Client(config)
     while True:
         status = client.setStatus()
-        print(status)
         for index, c in client.slackclients.items():
             c.api_call(
                 api_method="users.profile.set",

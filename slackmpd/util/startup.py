@@ -10,7 +10,7 @@ DEFAULT_CONFIG ={
     "slack": {
         "workspaces": []
     },
-    "formatting": "%artist% - %song%"
+    "formatting": "artist - song"
 }
 
 class Startup:

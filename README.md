@@ -1,6 +1,10 @@
 # slackmpd
 Rich Presence for mpd on Slack | Written in Python :snake:
 
+<p align="center">
+    <center><a align="center"><img src="https://pbs.twimg.com/media/ET0kZxjXkAAHpgk?format=png&name=900x900" height="450px"></a></center>
+</p>
+
 ## Installation
 
 - *Requires Python 3.6+*
